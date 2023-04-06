@@ -1,9 +1,9 @@
 ### ola, eu sou o italo 👋
 
  📑	atualmente Estudando na etec bartolomeu bueno da silva.
- 📑	cursando informatica para internet
  
-
+ 
+ 📑	cursando informatica para internet
 <!--
 **Italo-machado/Italo-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
