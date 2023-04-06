@@ -1,6 +1,7 @@
 ### ola, eu sou o italo 👋
 
  📑	atualmente Estudando na etec bartolomeu bueno da silva.
+ 📑	cursando informatica para internet
  
 
 <!--
