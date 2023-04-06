@@ -1,4 +1,7 @@
-### Hi there 👋
+### ola, eu sou o italo 👋
+
+ 📑	atualmente Estudando na etec bartolomeu bueno da silva.
+ 
 
 <!--
 **Italo-machado/Italo-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
